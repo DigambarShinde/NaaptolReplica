@@ -1,0 +1,980 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>Naaptol Replica</title>
+  <link rel="stylesheet" href="Naaptol Replica.css">
+  <script src="Naaptol Replica.js"></script>
+ </head>
+
+<body>
+
+	  <div class="wrapper">
+ <!-- --------------------------------Header Start-------------------------------------- -->
+		<header class="header">
+            <ul class="logo">
+                <li>
+                    <img
+                        src="https://images.naptol.com/usr/local/csp/staticContent/images_layout-html5/Logo_130X70.png">
+                </li>
+                <div style="clear:both"></div>
+            </ul>
+
+            <div class="small_links">
+                <span style="font-weight:bold;">Hi Guest |</span>
+					<a href="#">Log In / Register |</a>
+					<a href="#">Track Order |</a>
+					<a href="#"><span class="mob_icon"></span>Download App |</a>
+                <select>
+                    <option value="0">English</option>
+                    <option value="3">ಕನ್ನಡ</option>
+                    <option value="2">मराठी</option>
+                    <option value="1">हिन्दी</option>
+                    <option value="7">മലയാളം</option>
+                    <option value="6">বাঙালি</option>
+                    <option value="4">தமிழ்</option>
+                    <option value="11">తెలుగు</option>
+                </select>
+            </div>
+ 
+			<p class="phone">
+					<a href="#"><span class="hiring"> WE'RE HIRING</span></a>
+					Call<span style="font-weight:bold;"> 040-6851-4402</span> to order
+			</p>
+				<div style="clear:both"></div>
+            <div>
+
+
+             <div class="searchPannel">
+                 <div class="categories">
+
+					<a href="#">
+						<span>Shopping Categories</span>
+						 <span class="arrow_icon"></span>
+					</a>
+
+					<div class="sub_categories">
+						<h2>First<h2>
+						<h2>sec<h2>
+						<h2>third<h2>
+						<h2>four<h2>
+						<h2>fif<h2>
+					</div>
+                        
+                  </div>
+
+                  <div class="search_box">
+                      <input type="text" placeholder="Find your favourite brand, product, model and many more">
+                      </input>
+                   </div>
+
+				   <div class="search_icon_div">
+						<span class="search_icon"></span>
+				   </div>
+
+					<div class="cart_div">
+						<span class="cart">(0) Items</span>
+					</div>
+
+                   <div style="clear:both"></div> 
+               </div>
+        </header>
+<!-- --------------------------------Slider Image-------------------------------------- -->
+						<!-- 	Which is Not Working Need JS -->
+		<div class="image_wrapper">
+		
+			<img  style="cursor:pointer;"src="https://layout.naptol.com/usr/local/csp/staticContent/naaptolAds/Flameless-Electric-Cooking-Stove-ECS1-Home-Banner3-22-03-23.jpg">	
+
+		</div>
+
+
+<!-----------------------------------  Marquee  ---------------------------------------->
+		<div class="animation_marquee">
+
+			<div class="fraud_div">
+				<span style="font-weight: bold;color: #ff8400;">Fraud Alert!</span>
+			</div>
+		
+			<div class="marquee">
+				<marquee>Don't deposit money or share financial info to anyone						claiming to offer reward / lucky draw prize on behalf of Naaptol.
+				</marquee>
+			</div>
+			<div style="clear:both"></div>
+	
+		</div>
+
+<!------------------------------------Some Core Products----------------------------------->
+		
+		<div class="categorie_section" style="margin: 10px 0 10px 0;">
+			<div class="cat_pro">
+				
+				<div class="box1">
+					<a hef="#">
+						<img src="https://images.naptol.com/usr/local/csp/staticContent/product_images/horizontal/90x90/Royal-Chef-Fruit-Juicer-new-3color-01.jpg">
+						<p class="">Fruit Juicer</p>
+					</a>
+				</div>
+
+				<div class="box1" >
+					<a hef="#">
+						<img src="https://images.naptol.com/usr/local/csp/staticContent/product_images/horizontal/90x90/Multi-Spray-Water-Gun-1.jpg">
+						<p class="">Spray Water Gun</p>
+					</a>
+				</div>
+
+				<div class="box1">
+					<a hef="#">
+						<img src="https://images.naptol.com/usr/local/csp/staticContent/product_images/horizontal/90x90/Royal-Chef-Fruit-Juicer-new-3color-01.jpg">
+						<p class="">Fruit Juicer</p>
+					</a>
+				</div>
+
+				<div class="box1">
+					<a hef="#">
+						<img src="https://images.naptol.com/usr/local/csp/staticContent/product_images/horizontal/90x90/3-layer-Designer-Insulated-Steel-Lunch-Box--bogo-1.jpg">
+						<span class="">Homeitems</span>
+					</a>
+				</div>
+
+				<div class="box1" >
+					<a hef="#">
+						<img src="https://images.naptol.com/usr/local/csp/staticContent/product_images/horizontal/90x90/Onion-&-Vegetable-Chopper-Buy-1-Get-1-7.jpg">
+						<p class="">Vegetable Chopper</p>
+					</a>
+				</div>
+
+				<div class="box1 ">
+					<a hef="#">
+						<img src="https://images.naptol.com/usr/local/csp/staticContent/product_images/horizontal/90x90/Multi-Spray-Water-Gun-1.jpg">
+						<p class="">Spray Water Gun</p>
+					</a>
+				</div>
+
+			</div>
+			<div style="clear:both"></div>	
+		</div>
+<!----------------------------------Product Starts------------------------------------->			
+		<div class="product_div">
+				<section class="trend">NOW TRENDING</section>
+			<div class="prod_box">
+			
+				<div class="prod pro-margin">
+					<a hef="#">
+						<img class="img_target" src="https://images.naptol.com/usr/local/csp/staticContent/product_images/horizontal/185x185/Multi-Spray-Water-Gun-1.jpg">
+						<div class="video"></div>
+						<div class="heart"></div>
+						<div class="off">50%</div>
+						<span class="Prod_info">Spray Water Gun</span>
+					</a>
+					<p class="price_tag"><br>
+						<span class="old_price">600</span>
+						  ₹ 299
+					</p><br>
+				</div>
+
+
+				<div class="prod pro-margin">
+					<a hef="#">
+						<img class="img_target" src="https://images.naptol.com/usr/local/csp/staticContent/product_images/horizontal/185x185/Royal-Chef-Fruit-Juicer-new-3color-01.jpg">
+						<div class="video"></div>
+						<div class="heart"></div>
+						<div class="off">50%</div>
+						<span class="Prod_info">Chef Fruit Juicer</span>
+					</a>
+					<p class="price_tag"><br>
+						<span class="old_price">1000</span>
+						  ₹ 399
+					</p><br>
+				</div>
+
+				<div class="prod pro-margin">
+					<a hef="#">
+						<img class="img_target" src="https://images.naptol.com/usr/local/csp/staticContent/product_images/horizontal/185x185/Onion-&-Vegetable-Chopper-Buy-1-Get-1-7.jpg">
+						<div class="video"></div>
+						<div class="heart"></div>
+						<div class="off">50%</div>
+						<span class="Prod_info">Vegetable Chopper</span>
+					</a>
+					<p class="price_tag"><br>
+						<span class="old_price">1000</span>
+						  ₹ 299
+					</p><br>
+				</div>
+
+				<div class="prod">
+					<a hef="#">
+						<img class="img_target" src="https://images.naptol.com/usr/local/csp/staticContent/product_images/horizontal/185x185/Mini-Sewing-Machine-1.jpg">
+						<div class="video"></div>
+						<div class="heart"></div>
+						<div class="off">50%</div>
+						<span class="Prod_info">Mini Sewing Machine</span>
+					</a>
+					<p class="price_tag"><br>
+						<span class="old_price">900</span>
+						  ₹ 399
+					</p><br>
+				</div>
+
+				<div class="prod pro-margin">
+					<a hef="#">
+						<img class="img_target" src="https://images.naptol.com/usr/local/csp/staticContent/product_images/horizontal/185x185/8PcsSeeThroughPushandLockBowlSet-8PL2----1.jpg">												
+						<div class="video"></div>
+						<div class="heart"></div>
+						<div class="off">50%</div>
+						<span class="Prod_info">LockBowl Set-8PL2</span>
+					</a>
+					<p class="price_tag"><br>
+						<span class="old_price">1200</span>
+						  ₹ 399
+					</p><br>
+				</div>
+
+				<div class="prod pro-margin">
+					<a hef="#">
+						<img class="img_target" src="https://images.naptol.com/usr/local/csp/staticContent/product_images/horizontal/185x185/SmartWatchMobileBluetoothEarphoneStand--1.jpg">												
+						<div class="video"></div>
+						<div class="heart"></div>
+						<div class="off">50%</div>
+						<span class="Prod_info">Watch Mobile Bluetooth<br> </span>
+					</a>
+					<p class="price_tag"><br>
+						<span class="old_price">1499</span>
+						  ₹ 599
+					</p><br>
+				</div>
+
+				<div class="prod pro-margin">
+					<a hef="#">
+						<img class="img_target" src="https://images.naptol.com/usr/local/csp/staticContent/product_images/horizontal/185x185/HD-Night-Vision-Goggles---Buy-1-get-1-free-1.jpg">												
+						<div class="video"></div>
+						<div class="heart"></div>
+						<div class="off">50%</div>
+						<span class="Prod_info">2 HD Vision Goggles</span>
+					</a>
+					<p class="price_tag"><br>
+						<span class="old_price">199</span>
+						  ₹ 399
+					</p><br>
+				</div>
+
+				<div class="prod">
+					<a hef="#">
+						<img class="img_target" src="https://images.naptol.com/usr/local/csp/staticContent/product_images/horizontal/185x185/3-layer-Designer-Insulated-Steel-Lunch-Box--bogo-1.jpg">											
+						<div class="video"></div>
+						<div class="heart"></div>
+						<div class="off">50%</div>
+						<span class="Prod_info">3 Layer Tiffin- BOGO</span>
+					</a>
+					<p class="price_tag"><br>
+						<span class="old_price">1499</span>
+						  ₹ 599
+					</p><br>
+				</div>
+
+				<div class="prod pro-margin">
+					<a hef="#">
+						<img class="img_target" src="https://images.naptol.com/usr/local/csp/staticContent/product_images/horizontal/185x185/15-Pcs-Snack-Maker-+-Free-Double-Gujiya-Maker-01.jpg">											
+						<div class="video"></div>
+						<div class="heart"></div>
+						<div class="off">50%</div>
+						<span class="Prod_info">15 Pcs Snack Maker+Gujiya</span>
+					</a>
+					<p class="price_tag"><br>
+						<span class="old_price">1000</span>
+						  ₹ 399
+					</p><br>
+				</div>
+
+				<div class="prod pro-margin">
+					<a hef="#">
+						<img class="img_target" src="https://images.naptol.com/usr/local/csp/staticContent/product_images/horizontal/185x185/Pack-of-6-Stainless-Steel-Bottles-1.jpg">
+						<div class="video"></div>
+						<div class="heart"></div>
+						<div class="off">50%</div>
+						<span class="Prod_info">Pack of 6 Water Bottles</span>
+					</a>
+					<p class="price_tag"><br>
+						<span class="old_price">2499</span>
+						  ₹ 999
+					</p><br>
+				</div>
+
+				<div class="prod pro-margin">
+					<a hef="#">
+						<img class="img_target" src="https://images.naptol.com/usr/local/csp/staticContent/product_images/horizontal/185x185/Tumbling-Tank---Buy-1-Get-1-1.jpg">			<div class="video"></div>
+						<div class="heart"></div>
+						<div class="off">50%</div>
+						<span class="Prod_info">Tumbling Tank-Buy1 Get1</span>
+					</a>
+					<p class="price_tag"><br>
+						<span class="old_price">999</span>
+						  ₹ 399
+					</p><br>
+				</div>
+
+				<div class="prod">
+					<a hef="#">
+						<img class="img_target" src="https://images.naptol.com/usr/local/csp/staticContent/product_images/horizontal/185x185/Ayurjeet-Fat-reducer-Cream-1.jpg">											
+						<div class="video"></div>
+						<div class="heart"></div>
+						<div class="off">50%</div>
+						<span class="Prod_info">Ayurjeet Fat Reducer Cream</span>
+					</a>
+					<p class="price_tag"><br>
+						  ₹ 499
+					</p><br>
+				</div>
+
+				<div class="prod pro-margin">
+					<a hef="#">
+						<img class="img_target" src="https://images.naptol.com/usr/local/csp/staticContent/product_images/horizontal/185x185/Golden-Chain-+-Digital-Watch-1.jpg">		<div class="video"></div>
+						<div class="heart"></div>
+						<div class="off">50%</div>
+
+						<span class="Prod_info">Golden Chain + Watch</span>
+					</a>
+					
+					<p class="price_tag"><br>
+						<span class="old_price">1,999</span>
+						  ₹ 399
+					</p><br>
+				</div>
+
+				<div class="prod pro-margin">
+					<a hef="#">
+						<img class="img_target" src="https://images.naptol.com/usr/local/csp/staticContent/product_images/horizontal/185x185/SmartWatchMobileBluetoothEarphoneStand--1.jpg">												
+						<div class="video"></div>
+						<div class="heart"></div>
+						<div class="off">50%</div>
+						<span class="Prod_info">Smart Watch</span>
+					</a>
+					
+					<p class="price_tag"><br>
+						<span class="old_price">1999</span>
+						  ₹ 999
+					</p><br>
+				</div>
+
+				<div class="prod pro-margin">
+					<a hef="#">
+						<img class="img_target" src="https://images.naptol.com/usr/local/csp/staticContent/product_images/horizontal/185x185/Water-Sensor-Diya---Set-of-8-1.jpg">													
+						<div class="video"></div>
+						<div class="heart"></div>
+						<div class="off">50%</div>
+						<span class="Prod_info"> Magic Diya-Set of 8</span>
+					</a>
+					<p class="price_tag"><br>
+						<span class="old_price">999</span>
+						  ₹ 300
+					</p><br>
+				</div>
+
+				<div class="prod">
+					<a hef="#">
+						<img class="img_target" src="https://images.naptol.com/usr/local/csp/staticContent/product_images/horizontal/185x185/Multipurpose-Foam-Cleaner-01.jpg">												
+						<div class="video"></div>
+						<div class="heart"></div>
+						<div class="off">50%</div>
+						<span class="Prod_info">Magic Foam Cleaner</span>
+					</a>
+					
+					<p class="price_tag"><br>
+						<span class="old_price">1000</span>
+						  ₹ 499
+					</p><br>
+				</div>          
+				
+				<div class="prod pro-margin">
+					<a hef="#">
+						<img class="img_target" src="https://images.naptol.com/usr/local/csp/staticContent/product_images/horizontal/185x185/Multipurpose-Foam-Cleaner-01.jpg">
+						<div class="video"></div>
+						<div class="heart"></div>
+						<div class="off">50%</div>
+						<span class="Prod_info">36 Pcs Designer Dinner Set</span>
+					</a>
+					
+					<p class="price_tag"><br>
+						<span class="old_price">2500</span>
+						  ₹ 999
+					</p><br>
+				</div>
+
+				<div class="prod pro-margin">
+					<a hef="#">
+						<img class="img_target" src="https://images.naptol.com/usr/local/csp/staticContent/product_images/horizontal/185x185/Pack-Of-3-Ladies-Sandal-1.jpg">
+																		
+						<div class="video"></div>
+						<div class="heart"></div>
+						<div class="off">50%</div>
+						<span class="Prod_info">Pack of 3 Ladies Sandals</span>
+					</a>
+					<p class="price_tag"><br>
+						<span class="old_price">1499</span>
+						  ₹ 499
+					</p><br>
+				</div>
+
+				<div class="prod pro-margin">
+					<a hef="#">
+						<img class="img_target" src="https://images.naptol.com/usr/local/csp/staticContent/product_images/horizontal/185x185/Magic-Wrench-2.jpg">
+																		
+						<div class="video"></div>
+						<div class="heart"></div>
+						<div class="off">50%</div>
+						<span class="Prod_info">Magic Wrench</span>
+					</a>
+					<p class="price_tag"><br>
+						<span class="old_price">1000</span>
+						  ₹ 399
+					</p><br>
+				</div>
+
+				<div class="prod">
+					<a hef="#">
+						<img class="img_target" src="https://images.naptol.com/usr/local/csp/staticContent/product_images/horizontal/185x185/Robo-Car-Toy-1.jpg">
+																		
+						<div class="video"></div>
+						<div class="heart"></div>
+						<div class="off">50%</div>
+						<span class="Prod_info">Transforming Robot Car</span>
+					</a>
+					<p class="price_tag"><br>
+						<span class="old_price">999</span>
+						  ₹ 599
+					</p><br>
+				</div>
+
+				<div class="prod pro-margin">
+					<a hef="#">
+						<img class="img_target" src="https://images.naptol.com/usr/local/csp/staticContent/product_images/horizontal/185x185/Magical-Writing-Tablet---Buy-1-Get-1-Free-1.jpg">
+																		
+						<div class="video"></div>
+						<div class="heart"></div>
+						<div class="off">50%</div>
+						<span class="Prod_info">Writing Tablet</span>
+					</a>
+					<p class="price_tag"><br>
+						<span class="old_price">999</span>
+						  ₹ 499
+					</p><br>
+				</div>
+
+				<div class="prod pro-margin">
+					<a hef="#">
+						<img class="img_target" src="https://images.naptol.com/usr/local/csp/staticContent/product_images/horizontal/185x185/35-in1-Mantra-Device-6.jpg">
+																		
+						<div class="video"></div>
+						<div class="heart"></div>
+						<div class="off">50%</div>
+						<span class="Prod_info">35 in 1 Mantra Device</span>
+					</a>
+					<p class="price_tag"><br>
+						<span class="old_price">799</span>
+						  ₹ 399
+					</p><br>
+				</div>
+
+				<div class="prod pro-margin">
+					<a hef="#">
+						<img class="img_target" src="https://images.naptol.com/usr/local/csp/staticContent/product_images/horizontal/185x185/Pack-of-5-V-Neck-Tshirts-5VT1-1.jpg">
+																		
+						<div class="video"></div>
+						<div class="heart"></div>
+						<div class="off">50%</div>
+
+						<span class="Prod_info">Pack of 5 Neck T-shirts</span>
+					</a>
+					
+					<p class="price_tag"><br>
+						<span class="old_price">2495</span>
+						  ₹ 599
+					</p><br>
+				</div>
+
+				<div class="prod">
+					<a hef="#">
+						<img class="img_target" src="https://images.naptol.com/usr/local/csp/staticContent/product_images/horizontal/185x185/41-Pcs-Multipurpose-Tool-Set-o1.jpg">
+																		
+						<div class="video"></div>
+						<div class="heart"></div>
+						<div class="off">50%</div>
+
+						<span class="Prod_info">41 Pcs Multipurpose Tool Set</span>
+					</a>
+					
+					<p class="price_tag"><br>
+						<span class="old_price">999</span>
+						  ₹ 499
+					</p><br>
+				</div>
+
+				<div class="prod pro-margin">
+					<a hef="#">
+						<img class="img_target" src="https://images.naptol.com/usr/local/csp/staticContent/product_images/horizontal/185x185/Magic-Sealer-1.jpg">
+																		
+						<div class="video"></div>
+						<div class="heart"></div>
+						<div class="off">50%</div>
+
+						<span class="Prod_info">Magic Sealer</span>
+					</a>
+					
+					<p class="price_tag"><br>
+						<span class="old_price">500</span>
+						  ₹ 349
+					</p><br>
+				</div>
+
+				<div class="prod pro-margin">
+					<a hef="#">
+						<img class="img_target" src="https://images.naptol.com/usr/local/csp/staticContent/product_images/horizontal/185x185/Electric-Cooking-Stove-1.jpg">
+																		
+						<div class="video"></div>
+						<div class="heart"></div>
+						<div class="off">50%</div>
+
+						<span class="Prod_info">Electric Cooking Stove</span>
+					</a>
+					
+					<p class="price_tag"><br>
+						<span class="old_price">2499</span>
+						   ₹ 1499
+					</p><br>
+				</div>
+
+				<div class="prod pro-margin">
+					<a hef="#">
+						<img class="img_target" src="https://images.naptol.com/usr/local/csp/staticContent/product_images/horizontal/185x185/MilkshakeMagice-RechargeablePowerfulBlender----1.jpg">
+																		
+						<div class="video"></div>
+						<div class="heart"></div>
+						<div class="off">50%</div>
+
+						<span class="Prod_info">Rechargeable Blender</span>
+					</a>
+					
+					<p class="price_tag"><br>
+						<span class="old_price">1000</span>
+						  ₹ 600
+					</p><br>
+				</div>
+
+				<div class="prod">
+					<a hef="#">
+						<img class="img_target" src="https://images.naptol.com/usr/local/csp/staticContent/product_images/horizontal/185x185/Magic-Practice-Book-Set-1.jpg">
+																		
+						<div class="video"></div>
+						<div class="heart"></div>
+						<div class="off">50%</div>
+
+						<span class="Prod_info"> Practice Book Settchen</span>
+					</a>
+					
+					<p class="price_tag"><br>
+						<span class="old_price">999</span>
+						  ₹ 499
+					</p><br>
+				</div>
+
+				<div class="prod pro-margin">
+					<a hef="#">
+						<img class="img_target" src="https://images.naptol.com/usr/local/csp/staticContent/product_images/horizontal/185x185/Automatic-Air-Compressor-Pump300-06.jpg">
+																		
+						<div class="video"></div>
+						<div class="heart"></div>
+						<div class="off">50%</div>
+
+						<span class="Prod_info">Air Compressor Pump</span>
+					</a>
+					
+					<p class="price_tag"><br>
+						<span class="old_price">1499</span>
+						  ₹ 599
+					</p><br>
+				</div>
+
+				<div class="prod pro-margin">
+					<a hef="#">
+						<img class="img_target" src="https://images.naptol.com/usr/local/csp/staticContent/product_images/horizontal/185x185/VOX-1.jpg">
+																		
+						<div class="video"></div>
+						<div class="heart"></div>
+						<div class="off">50%</div>
+
+						<span class="Prod_info">Vox Dual SIM Mobile </span>
+					</a>
+					
+					<p class="price_tag"><br>
+						<span class="old_price">1090</span>
+						  ₹ 799
+					</p><br>
+				</div>
+
+				<div class="prod pro-margin">
+					<a hef="#">
+						<img class="img_target" src="https://images.naptol.com/usr/local/csp/staticContent/product_images/horizontal/185x185/Electric-Egg-Cooker-2.jpg">
+																		
+						<div class="video"></div>
+						<div class="heart"></div>
+						<div class="off">50%</div>
+
+						<span class="Prod_info">Electric Egg Cooker</span>
+					</a>
+					
+					<p class="price_tag"><br>
+						<span class="old_price">2999</span>
+						  ₹ 499
+					</p><br>
+				</div>
+
+				<div class="prod">
+					<a hef="#">
+						<img class="img_target" src="https://images.naptol.com/usr/local/csp/staticContent/product_images/horizontal/185x185/Hot-Slimming-Massage-Belt-new-o1.jpg">
+																		
+						<div class="video"></div>
+						<div class="heart"></div>
+						<div class="off">50%</div>
+
+						<span class="Prod_info">Hot Slimming Belt</span>
+					</a>
+					
+					<p class="price_tag"><br>
+						<span class="old_price">900</span>
+						  ₹ 499
+					</p><br>
+				</div>
+			</div>
+		</div>
+		<br>
+<!-------------------------------------Products End-------------------------------------- -->
+	
+	<div class="loadmore">
+			<button class="load_more_btn">Load More Result...</button>
+	</div>
+	<div style="clear:both"></div>
+	
+	<div class="resent_view_prod">
+			<div>RESENT VIEW PRODUCT</div>
+	</div>
+	
+	<div class="resent_view">
+		<div class="resent_box box1 res_boxs" >
+			<a hef="#">
+				<img src="https://images.naptol.com/usr/local/csp/staticContent/product_images/horizontal/90x90/Leatherite-Sandal--Leatherite-Watch---Wallet-1.jpg">
+					<p class="text">Leatherite Sandal</p>
+					<p class="price_tag"><br>
+					<span class="old_price">2999</span>
+					  ₹ 499
+					 </p><br>
+			</a>
+		</div>
+
+		<div class="resent_box box1 res_boxs">
+			<a hef="#">
+				<img src="https://images.naptol.com/usr/local/csp/staticContent/product_images/horizontal/90x90/Multi-Spray-Water-Gun-1.jpg">
+					<p class="text">Spray Water Gun</p>
+					<p class="price_tag"><br>
+					<span class="old_price">2999</span>
+					  ₹ 499
+					 </p><br>
+			</a>
+		</div>
+
+		
+
+		<div class="resent_box box1 res_boxs">
+			<a hef="#">
+				<img src="https://images.naptol.com/usr/local/csp/staticContent/product_images/horizontal/90x90/Royal-Chef-Fruit-Juicer-new-3color-01.jpg">
+					<p class="text">Fruit Juicer</p>
+					<p class="price_tag"><br>
+					<span class="old_price">2999</span>
+					  ₹ 499
+					 </p><br>
+			</a>
+		</div>
+
+		<div class="resent_box box1 res_boxs">
+			<a hef="#">
+				<img src="https://images.naptol.com/usr/local/csp/staticContent/product_images/horizontal/90x90/3-layer-Designer-Insulated-Steel-Lunch-Box--bogo-1.jpg">
+					<p class="text">Home items</p>
+					<p class="price_tag"><br>
+					<span class="old_price">2999</span>
+					  ₹ 499
+					 </p><br>
+			</a>
+		</div>
+
+		<div class="resent_box box1 res_boxs">
+			<a hef="#">
+				<img src="https://images.naptol.com/usr/local/csp/staticContent/product_images/horizontal/90x90/Multi-Spray-Water-Gun-1.jpg">
+					<p class="text">Spray Water Gun</p>
+					<p class="price_tag"><br>
+					<span class="old_price">2999</span>
+					  ₹ 499
+					 </p><br>
+			</a>
+		</div>
+
+		<div class="resent_box box1 res_boxs">
+			<a hef="#">
+				<img src="https://images.naptol.com/usr/local/csp/staticContent/product_images/horizontal/90x90/Onion-&-Vegetable-Chopper-Buy-1-Get-1-7.jpg">
+					<p class="text">Vegetable Chopper</p>
+					<p class="price_tag"><br>
+					<span class="old_price">2999</span>
+					  ₹ 499
+					 </p><br>
+			</a>
+		</div>
+			<div style="clear:both"></div>
+	</div>	
+
+		
+	<div class="resent_view_prod" >
+			<section>YOU MAY ALSO</section>
+	</div>
+
+	<div class="prod_box">
+			
+			<div class="prod pro-margin">
+					<a hef="#">
+						<img class="img_target" src="https://images.naptol.com/usr/local/csp/staticContent/product_images/horizontal/185x185/Automatic-Air-Compressor-Pump300-06.jpg">
+																		
+						<div class="video"></div>
+						<div class="heart"></div>
+						<div class="off">50%</div>
+
+						<span class="Prod_info">Air Compressor Pump</span>
+					</a>
+					
+					<p class="price_tag"><br>
+						<span class="old_price">1499</span>
+						  ₹ 599
+					</p><br>
+				</div>
+
+				<div class="prod pro-margin">
+					<a hef="#">
+						<img class="img_target" src="https://images.naptol.com/usr/local/csp/staticContent/product_images/horizontal/185x185/VOX-1.jpg">
+																		
+						<div class="video"></div>
+						<div class="heart"></div>
+						<div class="off">50%</div>
+
+						<span class="Prod_info">Vox Dual SIM Mobile </span>
+					</a>
+					
+					<p class="price_tag"><br>
+						<span class="old_price">1090</span>
+						  ₹ 799
+					</p><br>
+				</div>
+
+				<div class="prod pro-margin">
+					<a hef="#">
+						<img class="img_target" src="https://images.naptol.com/usr/local/csp/staticContent/product_images/horizontal/185x185/Electric-Egg-Cooker-2.jpg">
+																		
+						<div class="video"></div>
+						<div class="heart"></div>
+						<div class="off">50%</div>
+
+						<span class="Prod_info">Electric Egg Cooker</span>
+					</a>
+					
+					<p class="price_tag"><br>
+						<span class="old_price">2999</span>
+						  ₹ 499
+					</p><br>
+				</div>
+
+				<div class="prod">
+					<a hef="#">
+						<img class="img_target" src="https://images.naptol.com/usr/local/csp/staticContent/product_images/horizontal/185x185/Hot-Slimming-Massage-Belt-new-o1.jpg">
+																		
+						<div class="video"></div>
+						<div class="heart"></div>
+						<div class="off">50%</div>
+
+						<span class="Prod_info">Hot Slimming Belt</span>
+					</a>
+					
+					<p class="price_tag"><br>
+						<span class="old_price">900</span>
+						  ₹ 499
+					</p><br>
+				</div>
+					<div style="clear:both"></div>
+	</div>
+			
+<!-------------------------------------Footer Information-------------------------------- -->
+
+		<div class="information">
+			
+			<ul class="block"> 
+           		<li class="heading"><a href="#">Download Apps</a></li>
+           		
+					<li>
+						<ul class="info_icon">            				           				
+							<li><a href="#"class="play_store"></a></li>
+							<li><a href="#" class="apple"></a></li>			
+							<li><a href="#" class="windows"></a></li>						
+						</ul>
+					</li>
+
+						<li class="heading">Keep in touch</li>
+					
+					<li>
+						<ul class="info_social_media_icon">							
+							<li><a href="#" class="facebook"></a> </li>
+							<li><a href="#" class="twitter"></a></li>
+							<li><a href="#" class="youtube"></a> </li>
+							<li><a href="#" class="linkedIn"></a></li>
+							<li><a href="#" class="insta"></a></li>
+						</ul>	           			
+           			</li>	 
+            </ul>
+				<ul class="block"> 
+
+					   <li class="heading">About Us </li>
+                       <li><a href="#">About Naaptol</a></li>
+                       <li><a href="#">Career<i class="new">NEW</i></a></li>
+                       <li><a href="#">Press Room</a></li>                    	
+                       <li><a href="#">Investor Relations</a></li>
+                       
+                       <li class="heading">Help </li>
+                       <li><a href="#">FAQ's</a></li>
+                       <li><a href="#">Shipping Options</a></li>
+                       <li><a href="#">Payment Options</a></li>
+                       <li><a href="#">EMI FAQ's</a></li>
+                       <li><a href="#">Payback FAQ's </a></li>
+                       <li><a href="#">Return, Replacement & Refund</a></li>
+                       <li><a href="#">Unsubscribe</a></li>               
+				</ul>
+				<ul class="block"> 
+                    	
+						<li class="heading">Customer Support</li>
+                        <li><a href="#">Feedback</a></li>
+                        <li><a href="#">Contact us</a></li>
+                        <li><a href="#">Sell Through Us</a></li>
+                        <li><a href="#">Seller FAQ's</a></li>
+                        <li><a href="#">Corporate Gifting</a></li>
+                        <li><a href="#">Cash Voucher Status</a></li>
+                        <li><a href="#">EMI calculator</a></li>               	
+                    	<li class="heading">Speciality Stores</li>
+                        <li><a href="#">Hot Deals</a></li>
+                        <li><a href="#`">App Deals</a></li>     
+                    	
+                </ul>
+				<ul class="block"> 
+						
+						<li class="heading">Misc</li>
+                        <li><a href="#">Sitemap</a></li>
+                        <li><a href="#">Online Shopping </a></li>
+                        <li><a href="#">Naaptol Gift Catalogue</a></li>
+                        <li><a href="#">Sapno Ki Udaan</a></li>
+                        <li><a href="#">Naaptol Diamond Membership</a></li>
+                        <li><a href="#">Social Initiatives</a></li>
+                        <li><a href="#">Naaptol TV Listings</a></li>
+                        
+                 </ul>
+				 <ul class="block">
+                  	<li class="heading">Why Naaptol?</li>
+						<ul style="list-style:none">
+	                        <li>&#x2714; Secured Payment</li>
+	                        <li>&#x2714; Cash on delivery</li>
+	                        <li>&#x2714; Available EMI options</li>
+	                        <li>&#x2714; Best quality products</li>
+						</ul>
+                </ul>
+			<div style="clear:both"></div>
+		</div>
+
+<!-------------------------------------TOP CATEGORIES-------------------------------------->
+		<div class="top_categories">
+			<span class="heading">TOP CATEGORIES</span>
+				<ul class="top_categories_link">   	
+						<li><a href="#">Apparel Accessories</a></li>
+		                    	<li><a href="#">Footwear Bags</a></li>
+		                    	<li><a href="#">Mobiles</a></li>
+		                    	<li><a href="#">Tablets Computers</a></li>
+		                    	<li><a href="#">Home Kitchen</a></li>
+		                    	<li><a href="#">Home Linen Furniture</a></li>
+		                    	<li><a href="#">Jewellery Watches</a></li>
+		                    	<li><a href="#">Car Bike Accessories</a></li>
+		                    	<li><a href="#">Consumer Electronics</a></li>
+		                    	<li><a href="#">Kids Toys</a></li>
+		                    	<li><a href="#">Beauty Wellness</a></li>
+		                    	<li><a href="#">Sports Fitness</a></li>
+		                    	<li><a href="#">All Categories</a></li>
+				</ul>
+		</div>
+			
+			
+			<div class="footer_para">
+			<p style="display:inline">Naaptol.com is a one-stop online shop for all your lifestyle needs. Being the No.1 home shopping company of India, Naaptol aims at improving people's lives by catering to them, through teleshopping and online shopping,  a gamut of products aimed at simplifying their life.Naaptol epitomizes accessible and affordable luxury for all. The brand prides itself on high quality, state-of-the-art, affordable, innovative consumer goods and lifestyle products and experienced staff ensuring our customers  simplify their lives, be healthy, be happy, live well and above all enjoy their lives. From home decor to apparels to toys to kitchen appliances, the brand encapsulates fashion, luxury, comfort and style to its product portfolio combining innovation, affordability and modernity.</p>
+			<p style="display:inline">In sync with the growth of Online shopping in India, Naaptol reaches maximum consumers, not just in metros but also in the smallest possible towns. We have the deepest delivery penetration and serve 24000 pincodes in India- the highest among all ecommerce players.<br>
+			Associated with some of the big national brands like Samsung, Kindle, Thomas Cook, Lenovo, FujiFilm Yamaha, Naaptol has evolved to keep pace with its customer's changing lifestyles and global challenges. We take our customers to higher levels of comfort and confidence by making them look, feel and live better.</p>
+			<p>With a deep rooted vision of  "Catering to the aspirations of each Bharatwasi by providing world-class innovative offers " combined with continuous innovation, constant upgradation of cutting-edge technology and customer-centric approach, Naaptol continues to upgrade the lives of its consumers and  "Delivering happiness".</p>
+			<hr>
+			<p>
+			<span style="font-weight:bold">Disclaimer:</span> Products warranty by 3rd Party Vendors. Brands, Logos, Creatives, Trademarks, Copyrights are owned by their respective owners. Naaptol disclaims liability for violation of any 3rd party rights.
+			</p>
+			<hr>
+			<p >
+				<span style="font-weight:bold">Regulatory Compliance:</span> In compliance of the Telecommunication (Broadcasting and Cable) Services Interconnection (Addressable Systems) Regulation, 2017 dated 03rd March 2017 read with Telecommunication (Broadcasting and Cable) Services (Eight) (Addressable Systems) Tariff Order, 2017 and subsequent communications from TRAI (Telecom Regulatory Authority of India) on the subject, please find below the details of our channels as follows.
+			</p>
+			
+				<table class="table">
+					<thead>
+						<tr>
+						  <th>Channel Name</th>
+						  <th>Language</th>
+						  <th>Nature of Channel Pay/FTA</th>
+						</tr>
+					</thead>            
+					<tbody>
+						<tr>
+						  <td>Naaptol</td>
+						  <td>Hindi</td>
+						  <td>Free To Air</td>
+						</tr>
+					<tr>
+						  <td>Tamil Naaptol</td>
+						  <td>Tamil</td>
+						  <td>Free To Air</td>
+					</tr>
+					<tr>
+						  <td>Kannada Naaptol</td>
+						  <td>Kannada</td>
+						  <td>Free To Air</td>
+					</tr>
+					<tr>
+					  <td>Telugu Naaptol</td>
+					  <td>Telugu</td>
+					  <td>Free To Air</td>
+					</tr>
+					<tr>
+					  <td>Malayalam Naaptol</td>
+					  <td>Malayalam</td>
+					  <td>Free To Air</td>
+					</tr>
+				  </tbody>            	
+				</table>
+		</div>
+	</div>
+<!-- --------------------------Wrapper Class Ends Here--------------------------------- -->
+
+	<footer class="footer"> 
+
+	<div class="bell">
+		<img src="Naaptolimages/notificationBell.png">
+	</div>
+		
+	Copyright © 2023 naaptol.com. All rights reserved. Terms of Use | Privacy Policy <br> Designated trademarks, products & brands are the property of their respective owners.
+	</footer>
+
+ </body>
+</html>

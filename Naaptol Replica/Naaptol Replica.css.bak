@@ -1,0 +1,446 @@
+*{margin:0px;padding:0px}
+
+body{font: 13px/normal Arial, Helvetica, sans-serif;}
+
+body a:link{color: #666;}
+
+.mob_icon,.arrow_icon,.search_icon_div,.cart_div,.video,.heart,.off,.play_store,.apple,
+.windows,.facebook , .twitter , .youtube, .linkedIn, .insta
+{
+	background:url(Naaptolimages/smallicons.png);
+}
+
+.wrapper{
+	width: 980px;
+    margin: auto;
+}
+
+
+
+ul.logo{ 
+	list-style-type: none; 
+    width: 250px;
+    float: left;
+	cursor:pointer;
+}
+
+.mob_icon{
+	background-position: -91px -177px;
+    width: 15px;
+    height: 20px;
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 5px;
+    margin-top: -4px;
+	}
+
+.small_links{
+	width: 650px;
+    text-align: right;
+    float: right;
+    margin-top: 10px;
+    color: #666;
+}
+
+div.small_links p.phone{
+    font-size: 16px;
+    padding-top: 15px;
+}
+
+.hiring{
+    background: #e34406;
+    padding: 8px 7px;
+    display: inline-block;
+    vertical-align: middle;
+    margin-bottom: 3px;
+    border-radius: 3px;
+    font-size: 10px;
+    color: #fff;
+}
+
+.phone{
+	width: 650px;
+    text-align: right;
+    float: right;
+    margin-top: 12px;
+    color: #666;
+}
+
+.searchPannel{
+	width: 980px;
+    background: #00368a;
+    height: 40px;
+	cursor:pointer;
+}
+
+.categories{
+	float: left;
+}
+
+
+.categories span{
+    padding: 9px 25px;
+    display: inline-block;
+    color: white;
+    font-size: 19px;
+    background-color: #98c805;
+}
+
+.arrow_icon{
+    background-position: 4px -95px;
+    width: 0px;
+    float: right;
+    height: 22px;
+  }
+
+.search_box{
+	border:none;
+    padding:4px 0 0px 0px;
+    float: left;
+	}
+
+.search_box [type=text]{
+    width: 470px;
+    padding: 8px 30px;
+    margin-left: 20px;
+    border: none;
+}
+
+.search_icon_div{
+	float: left;
+    display: inline;
+    width: 39px;
+    height: 32px;
+    background-position: -130px -60px;
+    background-color: #98c805;
+    margin-top: 4px;
+}
+
+.cart_div{
+    background-color: #ff8400;
+    height: 24px;
+    display: inline-block;
+    float: left;
+    background-image: url(Naaptolimages/cart.png);
+    background-repeat: no-repeat;
+    background-position-y: center;
+    background-position-x: 2px;
+    margin-top: 4px;
+    padding: 8px 10px 0px 42px;
+    margin-left: 6px;
+    text-align: end;
+    color: white;
+	cursor: pointer;
+}
+
+
+.animation_marquee{
+	border: 1px solid #00368a;
+    padding: 3px;
+    margin: 4px 0;
+    background: #00368a;
+    font-family: 'Trebuchet MS', Helvetica, sans-serif;
+	}
+
+
+.fraud_div{
+	display:inline ;
+	float:left
+}
+
+
+/* Take More Information About Marquee Tag */
+.marquee{
+	float: right;
+    color: white;
+    width: 895px;
+}
+
+.box1{
+	width: 155.9px;
+    box-shadow: rgba(0, 0, 0, 0.14902) 0px 1px 3px;
+    float: left;
+	text-align:center;
+	cursor: pointer;
+	margin-right:7px;
+}
+
+
+.box1:hover{
+	    box-shadow: rgba(0, 0, 0, 0.2) 0 0px 18px 1px;
+}
+
+.trend{
+	background: #525252;
+    color: #fff;
+    padding: 4px;
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: normal;
+    font-size: 13px;
+    letter-spacing: 7px;
+    margin-bottom: 20px;
+}
+
+
+.prod{
+    border: 1px solid #e8e8e8;
+    width: 235.5px;
+    float: left;
+	margin-top:8px;
+	box-shadow: rgba(0, 0, 0, 0.14902) 0px 1px 3px;
+	cursor: pointer;
+}
+
+.prod:hover{
+	    box-shadow: rgba(0, 0, 0, 0.2) 0 0px 18px 1px;
+}
+
+.pro-margin{
+	margin-right:10px;
+}
+
+.img_target{
+	margin: 12px 25px;
+	position:relative;
+}
+
+.Prod_info{  
+	font-size: 15px;
+    line-height: 1.4;
+    margin-left: 25px;
+}
+
+.price_tag{
+	margin-left: 25px;
+	font-family: revert;
+	font-weight: 700;
+    font-family: sans-serif
+}
+
+.price_tag span{
+	text-decoration: line-through;
+}
+
+.video{
+	background-position: -120px -650px;
+    position: absolute;
+    margin-left: 185px;
+    margin-top: -200px;
+    width: 37px;
+    height: 37px;
+    display: inline-block;
+}
+
+.heart{
+	display: inline-table;
+    background-position: -26px -656px;
+    width: 20px;
+    height: 20px;
+    margin-left: 199px;
+    margin-top: -147px;
+    position: absolute;
+}
+
+.off{
+	display: inline-table;
+    background-position: -52px -215px;
+    width: 41px;
+    height: 42px;
+    margin-left: 170px;
+    text-align: center;
+    padding: 7px 3px;
+    margin-top: -52px;
+    color: white;
+    position: absolute;
+}
+
+.load_more_btn{
+	width: 30%;
+    background: #525252;
+    color: #fff;
+    font-size: 14px;
+    display: block;
+    padding: 10px 0;
+    text-align: center;
+    margin: 10px 356px;
+    text-transform: uppercase;
+    box-shadow: 0px 4px 8px rgb(0 0 0 / 16%);
+    border-radius: 4px;
+	cursor: pointer;
+}
+
+.loadmore{float:left;margin-top: 15px;}
+
+.resent_view_prod{
+	background: #525252;
+    color: #fff;
+    padding: 4px;
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: normal;
+    font-size: 13px;
+    letter-spacing: 7px;
+    margin-bottom: 20px;
+	margin-top: 15px;
+}
+
+.res_boxs{    
+    margin-right: 7px;
+}
+
+/* ----------------------------------Footer part------------------------------------------ */
+.information{padding:40px 10px 10px 10px;}
+
+ul.block {
+    list-style-type: none;
+    width: 170px;
+    float: left;
+}
+
+ul.block li.heading{
+	font-weight: bold;
+    text-transform: uppercase;
+    margin-top: 10px;
+}
+
+ul.block li {
+    font-size: 13px;
+}
+
+ul.block li {
+    margin: 0;
+    padding: 3px 0;
+}
+
+ul.block li.heading a {
+    color: #333;
+}
+
+ul.info_icon li {
+    margin-right: 10px;
+    display: inline-block;
+}
+
+.play_store {
+    display: inline-block;
+    width: 35px;
+    height: 35px;
+    background-position: 0px -392px;
+}
+
+.apple{
+    display: inline-block;
+    width: 35px;
+    height: 35px;
+	background-position: -43px -392px;
+}
+
+.windows{
+    display: inline-block;
+    width: 35px;
+    height: 35px;
+   background-position: -87px -392px;
+}
+
+ul.info_social_media_icon li {
+    margin-right: 10px;
+    display: inline-block;
+}
+
+.facebook , .twitter , .youtube, .linkedIn, .insta{
+    width: 35px;
+    height: 35px;
+    display: inline-table;
+}
+
+.facebook{ background-position: 0px -339px;}
+.twitter {background-position: -90px -339px;}
+.youtube{background-position: -223px -339px;}
+.linkedIn{background-position: -267px -339px;}
+.insta{background-position: -312px -339px;}
+
+.new{
+	display: inline-block;
+    background: red;
+    font-size: 10px;
+    font-weight: bold;
+    color: #fff;
+    padding: 1px 5px;
+    border-radius: 2px;
+    margin-left: 6px;
+}
+
+.top_categories{
+	border-top: 1px solid #dfdfdf;
+    border-bottom: 1px solid #dfdfdf;
+    padding: 15px 0;
+    margin: 10px 0;
+}
+
+
+.top_categories span{
+	display: block;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+}
+
+.top_categories_link li{
+	display: inline-block;
+    margin-right: 10px;
+    border-right: 1px solid #dfdfdf;
+    padding-right: 10px;
+    margin-bottom: 10px;
+}
+
+
+.footer_para {
+    width: 980px;
+    margin: 0 auto;
+    line-height: 17px;
+    color: #898989;
+}
+
+hr{margin-top:10px;margin-bottom:10px}
+
+
+.table{
+    border-top: 1px solid #e8e8e8;
+    border-right: 1px solid #e8e8e8;
+	width:980px;margin:0 auto;
+	margin-top:10px;
+}
+
+
+.table tr th{
+	border-bottom: 1px solid #e8e8e8;
+    border-left: 1px solid #e8e8e8;
+    padding: 10px;
+}
+
+.table tr td{
+	border-bottom: 1px solid #e8e8e8;
+    border-left: 1px solid #e8e8e8;
+    padding: 10px;
+}
+
+.footer{
+	background: #00368a;
+    text-align: center;
+    padding: 15px 0;
+	color: #a9bbd7;
+	border-top: 3px solid #86b200;
+	
+}
+.bell{
+	height:52px;
+	position:fixed;
+    bottom:32px;
+	right:30px;
+    background: #86b200;
+    border-radius: 50%;
+    display:inline-block;
+}
+
+body{position:relative;}
